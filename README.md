@@ -1,6 +1,6 @@
 ### Hello, I'm Mohammed Fiaz 👋
 
-- 🔭 I’m currently working as Junior Web Developer (MERN Stack).
+- 🔭 I’m currently working as a Full Stack Developer (MERN Stack).
 - 🌱 I’m currently learning JavaScript Frameworks.
 - 👯 I’m looking to collaborate on new Projects.
 - 💬 Ask me about MERN Stack Technologies.
